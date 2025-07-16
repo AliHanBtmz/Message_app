@@ -1,0 +1,14 @@
+android/ linguist-vendored
+ios/ linguist-vendored
+linux/ linguist-vendored
+macos/ linguist-vendored
+web/ linguist-vendored
+windows/ linguist-vendored
+*.xml linguist-detectable=false
+*.plist linguist-detectable=false
+*.storyboard linguist-detectable=false
+*.gradle linguist-detectable=false
+*.h linguist-detectable=false
+*.c linguist-detectable=false
+*.cpp linguist-detectable=false
+*.html linguist-detectable=false
