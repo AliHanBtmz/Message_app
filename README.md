@@ -1,16 +1,47 @@
-# message_app
+# Message App
+Message App is a simple and user-friendly chat application built with Flutter and powered by Firebase. Users can register with their email, name, and password, then add friends via their email addresses and start one-on-one conversations.
+## Features
+* User registration and login with Firebase Authentication
 
-A new Flutter project.
+* Real-time messaging via Cloud Firestore
 
-## Getting Started
+* Add friends using email address
 
-This project is a starting point for a Flutter application.
+* One-on-one chat interface
 
-A few resources to get you started if this is your first Flutter project:
+* Clean and user-friendly UI
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Cross-platform compatibility with Flutter
+## Appliacitons Image
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="images/Login_page.jpeg" width="300"/><br>
+      <sub><b>Login Page</b></sub>
+    </td>
+        <td align="center">
+      <img src="images/Register_page.jpeg" width="300"/><br>
+      <sub><b>Register Page</b></sub>
+    </td>
+    <tr>
+             <td align="center">
+      <img src="images/Main_page.jpeg" width="300"/><br>
+      <sub><b>Main Page</b></sub>
+    </td>
+    <td align="center">
+      <img src="images/Chat_page.jpeg" width="300"/><br>
+      <sub><b>Chat Page</b></sub>
+    </td>
+    </tr>
+  </tr>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+</table>
+
+## Setup
+1- Install the required packages:
+  
+  flutter pub get  
+
+2- Run the application:
+
+  flutter run  
